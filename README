@@ -1,1 +1,8 @@
-These are certain configuration files that I have customised over the winters. Out for everyone to enjoy
+Okay, so these are the configuration files that I want everyone to use freely.
+
+1. vimrc: It has a few handy customization. Completely documented.
+2. xmonad.hs: Nothing special here, except the keybindings.
+3. bashrc: my old bash configuration file. Don't use it now.
+4. zshrc: zsh configured with oh-my-zsh. Pretty awesome!
+5. mytheme.zsh-theme: This is the theme of my zsh prompt. I made it myself. Am really proud of it.
+6. inputrc: Just added autocomplete. Nothing else
